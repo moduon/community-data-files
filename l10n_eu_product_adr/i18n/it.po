@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-12-12 18:06+0000\n"
+"PO-Revision-Date: 2025-01-09 13:06+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -1642,32 +1642,32 @@ msgstr "AMILTRICLOROSILANO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1547
 msgid "ANILINE"
-msgstr ""
+msgstr "ANILINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1548
 msgid "ANILINE HYDROCHLORIDE"
-msgstr ""
+msgstr "CLORIDRATO DI ANILINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2431
 msgid "ANISIDINES"
-msgstr ""
+msgstr "ANISIDINE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2222
 msgid "ANISOLE"
-msgstr ""
+msgstr "ANISOLATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1729
 msgid "ANISOYL CHLORIDE"
-msgstr ""
+msgstr "CLORURO DI ANISOILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3141
 msgid "ANTIMONY COMPOUND, INORGANIC, LIQUID, N.O.S."
-msgstr ""
+msgstr "COMPOSTO DELL'ANTIMONIO, INORGANICO, LIQUIDO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1549
@@ -1677,58 +1677,58 @@ msgstr "ANTIMONY COMPOUND, INORGANIC, SOLIDO, N.O.S."
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1550
 msgid "ANTIMONY LACTATE"
-msgstr ""
+msgstr "LATTATO DI ANTIMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1731_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1731_5L
 msgid "ANTIMONY PENTACHLORIDE SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI PENTACHLORURO DI ANTIMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1730
 msgid "ANTIMONY PENTACHLORIDE, LIQUID"
-msgstr ""
+msgstr "PENTACLORURO DI ANTIMONIO, LIQUIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1732
 msgid "ANTIMONY PENTAFLUORIDE"
-msgstr ""
+msgstr "PENTAFLUORURO DI ANTIMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1551
 msgid "ANTIMONY POTASSIUM TARTRATE"
-msgstr ""
+msgstr "TARTRATO DI POTASSIO E ANTIMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2871
 msgid "ANTIMONY POWDER"
-msgstr ""
+msgstr "POLVERE DI ANTIMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1733
 msgid "ANTIMONY TRICHLORIDE"
-msgstr ""
+msgstr "TRICLORURO DI ANTIMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1006
 msgid "ARGON, COMPRESSED"
-msgstr ""
+msgstr "ARGON COMPRESSO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1951
 msgid "ARGON, REFRIGERATED LIQUID"
-msgstr ""
+msgstr "ARGON, LIQUIDO REFRIGERATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1558
 msgid "ARSENIC"
-msgstr ""
+msgstr "ARSENICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1553
 msgid "ARSENIC ACID, LIQUID"
-msgstr ""
+msgstr "ACIDO ARSENICO, LIQUIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1554
@@ -1738,7 +1738,7 @@ msgstr "ARSENIC ACID, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1555
 msgid "ARSENIC BROMIDE"
-msgstr ""
+msgstr "BROMURO DI ARSENICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1556
@@ -1748,6 +1748,8 @@ msgid ""
 "ARSENIC COMPOUND, LIQUID, N.O.S., inorganic, including: Arsenates, n.o.s., "
 "Arsenites, n.o.s.; and Arsenic sulphides, n.o.s."
 msgstr ""
+"COMPOSTO DELL'ARSENICO, LIQUIDO, N.A.S., inorganico, comprendente: Arsenati, "
+"n.a.s., Arseniti, n.a.s.; e Solfuri di arsenico, n.a.s."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1557
@@ -1768,7 +1770,7 @@ msgstr "ARSENIC PENTAOSSIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1560
 msgid "ARSENIC TRICHLORIDE"
-msgstr ""
+msgstr "TRICLORURO DI ARSENICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1561
@@ -1778,7 +1780,7 @@ msgstr "ARSENIC TRIOSSIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1562
 msgid "ARSENICAL DUST"
-msgstr ""
+msgstr "POLVERE ARSENICA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2760
@@ -1786,13 +1788,15 @@ msgstr ""
 msgid ""
 "ARSENICAL PESTICIDE, LIQUID, FLAMMABLE, TOXIC, flash-point less than 23 °C"
 msgstr ""
+"PESTICIDA ARSENICALE, LIQUIDO, INFIAMMABILE, TOSSICO, punto di "
+"infiammabilità inferiore a 23 °C"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2994
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2994_100ml
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2994_5L
 msgid "ARSENICAL PESTICIDE, LIQUID, TOXIC"
-msgstr ""
+msgstr "PESTICIDA ARSENICALE, LIQUIDO, TOSSICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2993
@@ -1802,6 +1806,8 @@ msgid ""
 "ARSENICAL PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not less than 23 "
 "°C"
 msgstr ""
+"PESTICIDA ARSENICALE, LIQUIDO, TOSSICO, INFIAMMABILE, punto di "
+"infiammabilità non inferiore a 23 °C"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2759
@@ -1813,18 +1819,20 @@ msgstr "ARSENICAL PESTICIDE, SOLIDO, TOXIC"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2188
 msgid "ARSINE"
-msgstr ""
+msgstr "ARSINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3522
 msgid "ARSINE, ADSORBED"
-msgstr ""
+msgstr "ARSINA, ADSORBITA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3542
 msgid ""
 "ARTICLES CONTAINING A SUBSTANCE LIABLE TO SPONTANEOUS COMBUSTION, N.O.S."
 msgstr ""
+"ARTICOLI CONTENENTI UNA SOSTANZA CHE PUÒ ESSERE COMBUSTIBILE SPONTANEA, N.A."
+"S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3543
@@ -1832,21 +1840,23 @@ msgid ""
 "ARTICLES CONTAINING A SUBSTANCE WHICH IN CONTACT WITH WATER EMITS FLAMMABLE "
 "GASES, N.O.S."
 msgstr ""
+"ARTICOLI CONTENENTI UNA SOSTANZA CHE, A CONTATTO CON L'ACQUA, EMETTE GAS "
+"INFIAMMABILI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3547
 msgid "ARTICLES CONTAINING CORROSIVE SUBSTANCE, N.O.S."
-msgstr ""
+msgstr "ARTICOLI CONTENENTI SOSTANZA CORROSIVA, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3537
 msgid "ARTICLES CONTAINING FLAMMABLE GAS, N.O.S."
-msgstr ""
+msgstr "ARTICOLI CONTENENTI GAS INFIAMMABILE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3540
 msgid "ARTICLES CONTAINING FLAMMABLE LIQUID, N.O.S."
-msgstr ""
+msgstr "ARTICOLI CONTENENTI LIQUIDO INFIAMMABILE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3541
@@ -1856,12 +1866,12 @@ msgstr "ARTICLES CONTAINING FLAMMABLE SOLIDO, N.O.S."
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3548
 msgid "ARTICLES CONTAINING MISCELLANEOUS DANGEROUS GOODS, N.O.S."
-msgstr ""
+msgstr "ARTICOLI CONTENENTI MERCI PERICOLOSE VARIE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3538
 msgid "ARTICLES CONTAINING NON-FLAMMABLE, NON TOXIC GAS, N.O.S."
-msgstr ""
+msgstr "ARTICOLI CONTENENTI GAS NON INFIAMMABILE, NON TOSSICO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3545
@@ -1871,22 +1881,22 @@ msgstr "ARTICLES CONTAINING ORGANIC PEROSSIDO, N.O.S."
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3544
 msgid "ARTICLES CONTAINING OXIDIZING SUBSTANCE, N.O.S."
-msgstr ""
+msgstr "ARTICOLI CONTENENTI SOSTANZA OSSIDANTE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3539
 msgid "ARTICLES CONTAINING TOXIC GAS, N.O.S."
-msgstr ""
+msgstr "ARTICOLI CONTENENTI GAS TOSSICI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3546
 msgid "ARTICLES CONTAINING TOXIC SUBSTANCE, N.O.S."
-msgstr ""
+msgstr "ARTICOLI CONTENENTI SOSTANZA TOSSICA, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0486
 msgid "ARTICLES, EXPLOSIVE, EXTREMELY INSENSITIVE (ARTICLES, EEI)"
-msgstr ""
+msgstr "ARTICOLI, ESPLOSIVI, ESTREMAMENTE INSENSIBILI (ARTICOLI, EEI)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0349
@@ -1909,18 +1919,20 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0471
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0472
 msgid "ARTICLES, EXPLOSIVE, N.O.S."
-msgstr ""
+msgstr "ARTICOLI ESPLOSIVI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3164
 msgid ""
 "ARTICLES, PRESSURIZED, PNEUMATIC or HYDRAULIC (containing non-flammable gas)"
 msgstr ""
+"ARTICOLI PRESSURIZZATI, PNEUMATICI o IDRAULICI (contenenti gas non "
+"infiammabili)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0380
 msgid "ARTICLES, PYROPHORIC"
-msgstr ""
+msgstr "ARTICOLI PIROFORICI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0428
@@ -1929,7 +1941,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0431
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0432
 msgid "ARTICLES, PYROTECHNIC for technical purposes"
-msgstr ""
+msgstr "ARTICOLI PIROTECNICI per scopi tecnici"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2212
@@ -1937,38 +1949,39 @@ msgid ""
 "ASBESTOS, AMPHIBOLE (amosite, tremolite, actinolite, anthophyllite, "
 "crocidolite)"
 msgstr ""
+"AMIANTO, ANFIBOLO (amosite, tremolite, actinolite, antofillite, crocidolite)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2590
 msgid "ASBESTOS, CHRYSOTILE"
-msgstr ""
+msgstr "AMIANTO, CRISOTILO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3242
 msgid "AZODICARBONAMIDE"
-msgstr ""
+msgstr "AZODICARBONAMIDE"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__active
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_search
 msgid "Active"
-msgstr ""
+msgstr "Attiva"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__adr_goods_on_variants
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_goods_on_variants
 msgid "Adr Goods On Variants"
-msgstr ""
+msgstr "Merci Adr sulle varianti"
 
 #. module: l10n_eu_product_adr
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_form
 msgid "Archived"
-msgstr ""
+msgstr "In archivio"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3334
 msgid "Aviation regulated liquid, n.o.s."
-msgstr ""
+msgstr "Liquido regolamentato per l'aviazione, n.a.s."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3335
@@ -1978,48 +1991,48 @@ msgstr "Aviation regulated solido, n.o.s."
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields.selection,name:l10n_eu_product_adr.selection__adr_goods__tunnel_restriction_code__b/d
 msgid "B/D"
-msgstr ""
+msgstr "B/D"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields.selection,name:l10n_eu_product_adr.selection__adr_goods__tunnel_restriction_code__b/e
 msgid "B/E"
-msgstr ""
+msgstr "B/E"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields.selection,name:l10n_eu_product_adr.selection__adr_goods__tunnel_restriction_code__b1000c
 msgid "B1000C"
-msgstr ""
+msgstr "B1000C"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1400
 msgid "BARIUM"
-msgstr ""
+msgstr "BARIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1854
 msgid "BARIUM ALLOYS, PYROPHORIC"
-msgstr ""
+msgstr "LEGHE DI BARIO, PIROFORICHE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1571
 msgid "BARIUM AZIDE, WETTED with not less than 50% water, by mass"
-msgstr ""
+msgstr "AZIDE DI BARIO, BAGNATO con almeno il 50% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0224
 msgid "BARIUM AZIDE, dry or wetted with less than 50% water, by mass"
-msgstr ""
+msgstr "AZIDE DI BARIO, secca o bagnata con meno del 50% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2719
 msgid "BARIUM BROMATE"
-msgstr ""
+msgstr "BROMATO DI BARIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3405_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3405_5L
 msgid "BARIUM CHLORATE SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI CLORATO DI BARIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1445
@@ -2030,22 +2043,22 @@ msgstr "BARIUM CHLORATE, SOLIDO"
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1564_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1564_5kg
 msgid "BARIUM COMPOUND, N.O.S."
-msgstr ""
+msgstr "COMPOSTO DI BARIO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1565
 msgid "BARIUM CYANIDE"
-msgstr ""
+msgstr "CIANURO DI BARIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2741
 msgid "BARIUM HYPOCHLORITE with more than 22% available chlorine"
-msgstr ""
+msgstr "IPOCLORITO DI BARIO con oltre il 22% di cloro disponibile"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1446
 msgid "BARIUM NITRATE"
-msgstr ""
+msgstr "NITRATO DI BARIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1884
@@ -2056,7 +2069,7 @@ msgstr "BARIUM OSSIDO"
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3406_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3406_5L
 msgid "BARIUM PERCHLORATE  SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI PERCLORATO DI BARIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1447
@@ -2066,7 +2079,7 @@ msgstr "BARIUM PERCHLORATE, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1448
 msgid "BARIUM PERMANGANATE"
-msgstr ""
+msgstr "PERMANGANATO DI BARIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1449
@@ -2076,7 +2089,7 @@ msgstr "BARIUM PEROSSIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3292
 msgid "BATTERIES, CONTAINING SODIUM, or CELLS, CONTAINING SODIUM"
-msgstr ""
+msgstr "BATTERIE, CONTENENTI SODIO, o CELLE, CONTENENTI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3028
@@ -2086,134 +2099,135 @@ msgstr "BATTERIES, DRY, CONTAINING POTASSIUM IDROSSIDO SOLID, electric storage"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2794
 msgid "BATTERIES, WET, FILLED WITH ACID, electric storage"
-msgstr ""
+msgstr "BATTERIE, UMIDE, RIEMPITE CON ACIDO, accumulo elettrico"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2795
 msgid "BATTERIES, WET, FILLED WITH ALKALI, electric storage"
-msgstr ""
+msgstr "BATTERIE, UMIDE, RIEMPITE CON ALCALI, accumulo elettrico"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2800
 msgid "BATTERIES, WET, NON-SPILLABLE, electric storage"
-msgstr ""
+msgstr "BATTERIE, UMIDE, A TENUTA, accumulo elettrico"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2797
 msgid "BATTERY FLUID, ALKALI"
-msgstr ""
+msgstr "FLUIDO PER BATTERIE, ALCALI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3171
 msgid "BATTERY-POWERED VEHICLE or BATTERY-POWERED EQUIPMENT"
-msgstr ""
+msgstr "VEICOLO ALIMENTATO A BATTERIA o ATTREZZATURA ALIMENTATA A BATTERIA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1990
 msgid "BENZALDEHYDE"
-msgstr ""
+msgstr "BENZALDEIDE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1114
 msgid "BENZENE"
-msgstr ""
+msgstr "BENZENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2225
 msgid "BENZENESULPHONYL CHLORIDE"
-msgstr ""
+msgstr "CLORURO DI BENZENESULFONIL"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1885
 msgid "BENZIDINE"
-msgstr ""
+msgstr "BENZIDINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2224
 msgid "BENZONITRILE"
-msgstr ""
+msgstr "BENZONITRILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2587
 msgid "BENZOQUINONE"
-msgstr ""
+msgstr "BENZONITRILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2226
 msgid "BENZOTRICHLORIDE"
-msgstr ""
+msgstr "BENZOTRICLORURO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2338
 msgid "BENZOTRIFLUORIDE"
-msgstr ""
+msgstr "BENZOTRIFLUORURO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1736
 msgid "BENZOYL CHLORIDE"
-msgstr ""
+msgstr "CLORURO DI BENZOILICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1737
 msgid "BENZYL BROMIDE"
-msgstr ""
+msgstr "BROMURO DI BENZILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1738
 msgid "BENZYL CHLORIDE"
-msgstr ""
+msgstr "CLORURO DI BENZILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1739
 msgid "BENZYL CHLOROFORMATE"
-msgstr ""
+msgstr "CLOROFORMIATO DI BENZILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2653
 msgid "BENZYL IODIDE"
-msgstr ""
+msgstr "IODURO DI BENZILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2619
 msgid "BENZYLDIMETHYLAMINE"
-msgstr ""
+msgstr "BENZILIDIMETILAMINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1886
 msgid "BENZYLIDENE CHLORIDE"
-msgstr ""
+msgstr "CLORURO DI BENZILIDENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1566_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1566_5kg
 msgid "BERYLLIUM COMPOUND, N.O.S."
-msgstr ""
+msgstr "COMPOSTO DEL BERILLIO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2464
 msgid "BERYLLIUM NITRATE"
-msgstr ""
+msgstr "NITRATO DI BERILLIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1567
 msgid "BERYLLIUM POWDER"
-msgstr ""
+msgstr "POLVERE DI BERILLIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2251
 msgid ""
 "BICYCLO[2.2.1]HEPTA-2,5-DIENE, STABILIZED (2,5-NORBORNADIENE, STABILIZED)"
 msgstr ""
+"BICICLO[2.2.1]EPTA-2,5-DIENE, STABILIZZATO (2,5-NORBORNADIENE, STABILIZZATO)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3373_I4_6dot2_319_P650_-
 msgid "BIOLOGICAL SUBSTANCE, CATEGORY B"
-msgstr ""
+msgstr "SOSTANZA BIOLOGICA, CATEGORIA B"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3373_I4_6dot2_319_P650_-_animal_material
 msgid "BIOLOGICAL SUBSTANCE, CATEGORY B (animal material only)"
-msgstr ""
+msgstr "SOSTANZA BIOLOGICA, CATEGORIA B (solo materiale animale)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2782
@@ -2222,13 +2236,15 @@ msgid ""
 "BIPYRIDILIUM PESTICIDE, LIQUID, FLAMMABLE, TOXIC, flash-point less than 23 "
 "°C"
 msgstr ""
+"PESTICIDA BIPIRIDILIO, LIQUIDO, INFIAMMABILE, TOSSICO, punto di "
+"infiammabilità inferiore a 23 °C"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3016
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3016_100ml
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3016_5L
 msgid "BIPYRIDILIUM PESTICIDE, LIQUID, TOXIC"
-msgstr ""
+msgstr "PESTICIDA BIPIRIDILIO, LIQUIDO, TOSSICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3015
@@ -2238,6 +2254,8 @@ msgid ""
 "BIPYRIDILIUM PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not less than "
 "23 °C"
 msgstr ""
+"PESTICIDA BIPIRIDILIO, LIQUIDO, TOSSICO, INFIAMMABILE, punto di "
+"infiammabilità non inferiore a 23 °C"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2781
@@ -2250,29 +2268,31 @@ msgstr "BIPYRIDILIUM PESTICIDE, SOLIDO, TOXIC"
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2837_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2837_5L
 msgid "BISULPHATES, AQUEOUS SOLUTION"
-msgstr ""
+msgstr "BISOLFATI, SOLUZIONE ACQUOSA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2693
 msgid "BISULPHITES, AQUEOUS SOLUTION, N.O.S."
-msgstr ""
+msgstr "BISOLFITI, SOLUZIONE ACQUOSA, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0028
 msgid ""
 "BLACK POWDER (GUNPOWDER), COMPRESSED or BLACK POWDER (GUNPOWDER), IN PELLETS"
 msgstr ""
+"POLVERE NERA (POLVERE DA SPARO), COMPRESSA o POLVERE NERA (POLVERE DA SPARO)"
+", IN PELLET"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0027
 msgid "BLACK POWDER (GUNPOWDER), granular or as a meal"
-msgstr ""
+msgstr "POLVERE NERA (POLVERE DA SPARO), granulare o in polvere"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0399
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0400
 msgid "BOMBS WITH FLAMMABLE LIQUID with bursting charge"
-msgstr ""
+msgstr "BOMBE CON LIQUIDO INFIAMMABILE con carica di scoppio"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0033
@@ -2280,7 +2300,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0035
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0291
 msgid "BOMBS with bursting charge"
-msgstr ""
+msgstr "BOMBE con carica esplosiva"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0037
@@ -2288,50 +2308,52 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0039
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0299
 msgid "BOMBS, PHOTO-FLASH"
-msgstr ""
+msgstr "BOMBE, FOTO-FLASH"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2028
 msgid ""
 "BOMBS, SMOKE, NON-EXPLOSIVE with corrosive liquid, without initiating device"
 msgstr ""
+"BOMBE, FUMO, NON ESPLOSIVE con liquido corrosivo, senza dispositivo di "
+"innesco"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0225
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0268
 msgid "BOOSTERS WITH DETONATOR"
-msgstr ""
+msgstr "BOOSTER CON DETONATORE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0042
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0283
 msgid "BOOSTERS without detonator"
-msgstr ""
+msgstr "BOOSTER senza detonatore"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1312
 msgid "BORNEOL"
-msgstr ""
+msgstr "BORNEOLO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2692
 msgid "BORON TRIBROMIDE"
-msgstr ""
+msgstr "TRIBROMURO DI BORO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1741
 msgid "BORON TRICHLORIDE"
-msgstr ""
+msgstr "TRICLORURO DI BORO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1008
 msgid "BORON TRIFLUORIDE"
-msgstr ""
+msgstr "TRIFLUORURO DI BORO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1742
 msgid "BORON TRIFLUORIDE ACETIC ACID COMPLEX, LIQUID"
-msgstr ""
+msgstr "COMPLESSO DI ACIDO ACETICO DI TRIFLUORURO DI BORO, LIQUIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3419
@@ -2341,22 +2363,22 @@ msgstr "BORON TRIFLUORIDE ACETIC ACID COMPLEX, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2604
 msgid "BORON TRIFLUORIDE DIETHYL ETHERATE"
-msgstr ""
+msgstr "ETEREATO DIETILICO DI TRIFLUORURO DI BORO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2851
 msgid "BORON TRIFLUORIDE DIHYDRATE"
-msgstr ""
+msgstr "BORO TRIFLUORURO DIIDRATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2965
 msgid "BORON TRIFLUORIDE DIMETHYL ETHERATE"
-msgstr ""
+msgstr "ETEREATO DI DIMETILTRIFLUORURO DI BORO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1743
 msgid "BORON TRIFLUORIDE PROPIONIC ACID COMPLEX, LIQUID"
-msgstr ""
+msgstr "COMPLESSO DI ACIDO PROPIONICO DI TRIFLUORURO DI BORO, LIQUIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3420
@@ -2366,28 +2388,28 @@ msgstr "BORON TRIFLUORIDE PROPIONIC ACID COMPLEX, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3519
 msgid "BORON TRIFLUORIDE, ADSORBED"
-msgstr ""
+msgstr "TRIFLUORURO DI BORO, ADSORBITO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3213_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3213_5L
 msgid "BROMATES, INORGANIC, AQUEOUS SOLUTION, N.O.S."
-msgstr ""
+msgstr "BROMATI, INORGANICI, SOLUZIONE ACQUOSA, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1450
 msgid "BROMATES, INORGANIC, N.O.S."
-msgstr ""
+msgstr "BROMATI INORGANICI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2901
 msgid "BROMINE CHLORIDE"
-msgstr ""
+msgstr "CLORURO DI BROMO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1745
 msgid "BROMINE PENTAFLUORIDE"
-msgstr ""
+msgstr "PENTAFLUORURO DI BROMO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1746
