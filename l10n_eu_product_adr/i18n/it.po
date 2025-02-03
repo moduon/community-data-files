@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-01-09 19:06+0000\n"
+"PO-Revision-Date: 2025-02-03 18:06+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -3067,12 +3067,12 @@ msgstr "CELLULOIDE, ROTTAMI"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1333
 msgid "CERIUM, slabs, ingots or rods"
-msgstr ""
+msgstr "CERIO, lastre, lingotti o barre"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3078
 msgid "CERIUM, turnings or gritty powder"
-msgstr ""
+msgstr "CERIO, trucioli o polvere granulosa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0457
@@ -3080,17 +3080,17 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0459
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0460
 msgid "CHARGES, BURSTING, PLASTICS BONDED"
-msgstr ""
+msgstr "CARICHE, SCOPPIO, PLASTICA LEGATA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0048
 msgid "CHARGES, DEMOLITION"
-msgstr ""
+msgstr "ACCUSE, DEMOLIZIONE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0056
 msgid "CHARGES, DEPTH"
-msgstr ""
+msgstr "CARICHE, PROFONDITÀ"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0442
@@ -3098,7 +3098,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0444
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0445
 msgid "CHARGES, EXPLOSIVE, COMMERCIAL without detonator"
-msgstr ""
+msgstr "CARICHE, ESPLOSIVE, COMMERCIALI senza detonatore"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0271
@@ -3106,94 +3106,95 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0415
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0491
 msgid "CHARGES, PROPELLING"
-msgstr ""
+msgstr "CARICHE, PROPULSIONE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0242
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0279
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0414
 msgid "CHARGES, PROPELLING, FOR CANNON"
-msgstr ""
+msgstr "CARICHE, PROPULSIONE, PER CANNONE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0059
 msgid "CHARGES, SHAPED without detonator"
-msgstr ""
+msgstr "CARICHE, SAGOMATE senza detonatore"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0237
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0288
 msgid "CHARGES, SHAPED, FLEXIBLE, LINEAR"
-msgstr ""
+msgstr "CARICHE, SAGOMATE, FLESSIBILI, LINEARI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0439
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0440
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0441
 msgid "CHARGES, SHAPED, without detonator"
-msgstr ""
+msgstr "CARICHE SAGOMATE senza detonatore"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0060
 msgid "CHARGES, SUPPLEMENTARY, EXPLOSIVE"
-msgstr ""
+msgstr "CARICHE SAGOMATE senza detonatore"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3316
 msgid "CHEMICAL KIT or FIRST AID KIT"
-msgstr ""
+msgstr "KIT CHIMICO o KIT DI PRONTO SOCCORSO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3315
 msgid "CHEMICAL SAMPLE, TOXIC"
-msgstr ""
+msgstr "CAMPIONE CHIMICO, TOSSICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3503
 msgid "CHEMICAL UNDER PRESSURE, CORROSIVE, N.O.S."
-msgstr ""
+msgstr "SOSTANZE CHIMICHE SOTTO PRESSIONE, CORROSIVE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3505
 msgid "CHEMICAL UNDER PRESSURE, FLAMMABLE, CORROSIVE, N.O.S."
-msgstr ""
+msgstr "SOSTANZE CHIMICHE SOTTO PRESSIONE, INFIAMMABILE, CORROSIVE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3501
 msgid "CHEMICAL UNDER PRESSURE, FLAMMABLE, N.O.S."
-msgstr ""
+msgstr "SOSTANZE CHIMICHE SOTTO PRESSIONE, INFIAMMABILE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3504
 msgid "CHEMICAL UNDER PRESSURE, FLAMMABLE, TOXIC, N.O.S."
-msgstr ""
+msgstr "SOSTANZE CHIMICHE SOTTO PRESSIONE, INFIAMMABILE, TOSSICHE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3500
 msgid "CHEMICAL UNDER PRESSURE, N.O.S."
-msgstr ""
+msgstr "SOSTANZE CHIMICHE SOTTO PRESSIONE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3502
 msgid "CHEMICAL UNDER PRESSURE, TOXIC, N.O.S."
-msgstr ""
+msgstr "SOSTANZE CHIMICHE SOTTO PRESSIONE, TOSSICHE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2075
 msgid "CHLORAL, ANHYDROUS, STABILIZED"
-msgstr ""
+msgstr "CLOROLO ANIDRO STABILIZZATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1458_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1458_5kg
 msgid "CHLORATE AND BORATE MIXTURE"
-msgstr ""
+msgstr "MISCELA DI CLORATO E BORATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3407_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3407_5L
 msgid "CHLORATE AND MAGNESIUM CHLORIDE MIXTURE  SOLUTION"
 msgstr ""
+"SOLUZIONE DI MISCELA DI CLORURO DI CLORURO DI MAGNESIO E CLORURO DI MAGNESIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1459_1kg
@@ -3205,58 +3206,58 @@ msgstr "CHLORATE AND MAGNESIUM CHLORIDE MIXTURE, SOLIDO"
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3210_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3210_5L
 msgid "CHLORATES, INORGANIC, AQUEOUS SOLUTION, N.O.S."
-msgstr ""
+msgstr "CLORATI, INORGANICI, SOLUZIONE ACQUOSA, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1461
 msgid "CHLORATES, INORGANIC, N.O.S."
-msgstr ""
+msgstr "CLORATI INORGANICI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2626
 msgid "CHLORIC ACID, AQUEOUS SOLUTION with not more than 10% chloric acid"
-msgstr ""
+msgstr "ACIDO CLORICO, SOLUZIONE ACQUOSA con non più del 10% di acido clorico"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1017
 msgid "CHLORINE"
-msgstr ""
+msgstr "CLORO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2548
 msgid "CHLORINE PENTAFLUORIDE"
-msgstr ""
+msgstr "PENTAFLUORURO DI CLORO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1749
 msgid "CHLORINE TRIFLUORIDE"
-msgstr ""
+msgstr "TRIFLUORURO DI CLORO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3520
 msgid "CHLORINE, ADSORBED"
-msgstr ""
+msgstr "CLORO, ADSORBITO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1908_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1908_5L
 msgid "CHLORITE SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI CLORITO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1462
 msgid "CHLORITES, INORGANIC, N.O.S."
-msgstr ""
+msgstr "CLORITI INORGANICI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1750
 msgid "CHLOROACETIC ACID SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI ACIDO CLOROACETICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3250
 msgid "CHLOROACETIC ACID, MOLTEN"
-msgstr ""
+msgstr "ACIDO CLOROACETICO, FUSO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1751
@@ -3266,17 +3267,17 @@ msgstr "CHLOROACETIC ACID, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3416
 msgid "CHLOROACETO-PHENONE, LIQUID"
-msgstr ""
+msgstr "CLOROACETOFENONE, LIQUIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1695
 msgid "CHLOROACETONE, STABILIZED"
-msgstr ""
+msgstr "CLOROACETONE, STABILIZZATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2668
 msgid "CHLOROACETONITRILE"
-msgstr ""
+msgstr "CLOROACETONITRILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1697
@@ -3286,12 +3287,12 @@ msgstr "CHLOROACETOPHENONE, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1752
 msgid "CHLOROACETYL CHLORIDE"
-msgstr ""
+msgstr "CLOROACETILE CLORURO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2019
 msgid "CHLOROANILINES, LIQUID"
-msgstr ""
+msgstr "CLOROANILINE, LIQUIDE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2018
@@ -3301,22 +3302,22 @@ msgstr "CHLOROANILINES, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2233
 msgid "CHLOROANISIDINES"
-msgstr ""
+msgstr "CLOROANISIDINE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1134
 msgid "CHLOROBENZENE"
-msgstr ""
+msgstr "CLOROBENZENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2234
 msgid "CHLOROBENZOTRI-FLUORIDES"
-msgstr ""
+msgstr "CLOROBENZOTRI-FLUORURI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2235
 msgid "CHLOROBENZYL CHLORIDES, LIQUID"
-msgstr ""
+msgstr "CLOROBENZILE CLORURI, LIQUIDI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3427
@@ -3326,13 +3327,13 @@ msgstr "CHLOROBENZYL CHLORIDES, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1127
 msgid "CHLOROBUTANES"
-msgstr ""
+msgstr "CLOROBUTANI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2669_100ml
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2669_5L
 msgid "CHLOROCRESOLS SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI CLOROCRESOLI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3437
@@ -3363,7 +3364,7 @@ msgstr "CHLORODIFLUOROBROMO-METHANE (GAS REFRIGERANTE R 12B1)"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1577
 msgid "CHLORODINITRO-BENZENES, LIQUID"
-msgstr ""
+msgstr "CLORO DI NITRO-BENZENE, LIQUIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3441
@@ -3373,37 +3374,37 @@ msgstr "CHLORODINITROBENZENES, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1888
 msgid "CHLOROFORM"
-msgstr ""
+msgstr "CLOROFORMIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2742
 msgid "CHLOROFORMATES, TOXIC, CORROSIVE, FLAMMABLE, N.O.S."
-msgstr ""
+msgstr "CLOROFORMIATI, TOSSICI, CORROSIVI, INFIAMMABILI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3277
 msgid "CHLOROFORMATES, TOXIC, CORROSIVE, N.O.S."
-msgstr ""
+msgstr "CLOROFORMIATI, TOSSICI, CORROSIVI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2745
 msgid "CHLOROMETHYL CHLOROFORMATE"
-msgstr ""
+msgstr "CLOROFORMIATO DI CLOROMETIL"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2354
 msgid "CHLOROMETHYL ETHYL ETHER"
-msgstr ""
+msgstr "ETERE ETILICO CLOROMETILICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2237
 msgid "CHLORONITROANILINES"
-msgstr ""
+msgstr "CLORONITROANILINE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3409
 msgid "CHLORONITROBENZENES, LIQUID"
-msgstr ""
+msgstr "CLORONITROBENZENI, LIQUIDI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1578
@@ -3413,7 +3414,7 @@ msgstr "CHLORONITROBENZENES, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2433
 msgid "CHLORONITROTOLUENES, LIQUID"
-msgstr ""
+msgstr "CLORONITROTOLUENI, LIQUIDI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3457
@@ -3428,7 +3429,7 @@ msgstr "CHLOROPENTAFLUORO-ETHANE (GAS REFRIGERANTE R 115)"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2904
 msgid "CHLOROPHENOLATES, LIQUID or PHENOLATES, LIQUID"
-msgstr ""
+msgstr "CLOROFENOLATI, LIQUIDI o FENOLATI, LIQUIDI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2905
@@ -3438,7 +3439,7 @@ msgstr "CHLOROPHENOLATES, SOLIDOor PHENOLATES, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2021
 msgid "CHLOROPHENOLS, LIQUID"
-msgstr ""
+msgstr "CLOROFENOLI, LIQUIDI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2020
@@ -3448,29 +3449,30 @@ msgstr "CHLOROPHENOLS, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1753
 msgid "CHLOROPHENYL-TRICHLOROSILANE"
-msgstr ""
+msgstr "CLOROFENIL-TRICLOROSILANO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1580
 msgid "CHLOROPICRIN"
-msgstr ""
+msgstr "CLOROPICRINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1581
 msgid "CHLOROPICRIN AND METHYL BROMIDE MIXTURE with more than 2% chloropicrin"
 msgstr ""
+"MISCELA DI CLOROPICRIN E BROMURO DI METILE con più del 2% di cloropicrina"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1582
 msgid "CHLOROPICRIN AND METHYL CHLORIDE MIXTURE"
-msgstr ""
+msgstr "MISCELA DI CLOROPICRIN E CLORURO DI METILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1583
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1583_100ml
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1583_5L
 msgid "CHLOROPICRIN MIXTURE, N.O.S."
-msgstr ""
+msgstr "MISCELA DI CLOROPICRINA, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2507
@@ -3480,37 +3482,37 @@ msgstr "CHLOROPLATINIC ACID, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1991
 msgid "CHLOROPRENE, STABILIZED"
-msgstr ""
+msgstr "CLOROPRENE, STABILIZZATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2986
 msgid "CHLOROSILANES, CORROSIVE, FLAMMABLE, N.O.S."
-msgstr ""
+msgstr "CLOROSILANI, CORROSIVI, INFIAMMABILI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2987
 msgid "CHLOROSILANES, CORROSIVE, N.O.S."
-msgstr ""
+msgstr "CLOROSILANI, CORROSIVI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2985
 msgid "CHLOROSILANES, FLAMMABLE, CORROSIVE, N.O.S."
-msgstr ""
+msgstr "CHLOROSILANES, FLAMMABLE, CORROSIVE, N.O.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3362
 msgid "CHLOROSILANES, TOXIC, CORROSIVE, FLAMMABLE, N.O.S."
-msgstr ""
+msgstr "CLOROSILANI, TOSSICI, CORROSIVI, INFIAMMABILI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3361
 msgid "CHLOROSILANES, TOXIC, CORROSIVE, N.O.S."
-msgstr ""
+msgstr "CLOROSILANI, TOSSICI, CORROSIVI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2988
 msgid "CHLOROSILANES, WATER-REACTIVE, FLAMMABLE, CORROSIVE, N.O.S."
-msgstr ""
+msgstr "CLOROSILANI, IDROREATTIVI, INFIAMMABILI, CORROSIVI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1754
@@ -3520,12 +3522,12 @@ msgstr "CHLOROSULPHONIC ACID (with or without sulphur triossido)"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2238
 msgid "CHLOROTOLUENES"
-msgstr ""
+msgstr "CLOROTOLUENI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3429
 msgid "CHLOROTOLUIDINES, LIQUID"
-msgstr ""
+msgstr "CLOROTOLUIDINE, LIQUIDE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2239
@@ -3550,13 +3552,13 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1755_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1755_5L
 msgid "CHROMIC ACID SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI ACIDO CROMO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1757_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1757_5L
 msgid "CHROMIC FLUORIDE SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI FLUORURO CROMO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1756
@@ -3566,12 +3568,12 @@ msgstr "CHROMIC FLUORIDE, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2720
 msgid "CHROMIUM NITRATE"
-msgstr ""
+msgstr "NITRATO DI CROMO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1758
 msgid "CHROMIUM OXYCHLORIDE"
-msgstr ""
+msgstr "OSSICLORURO DI CROMO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1463
@@ -3581,7 +3583,7 @@ msgstr "CHROMIUM TRIOSSIDO, ANHYDROUS"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2240
 msgid "CHROMOSULPHURIC ACID"
-msgstr ""
+msgstr "ACIDO CROMOSOLFORICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3291_I3_6dot2_565_P621/IBC620/LP621_2
@@ -3589,6 +3591,8 @@ msgid ""
 "CLINICAL WASTE, UNSPECIFIED, N.O.S. or (BIO) MEDICAL WASTE, N.O.S. or "
 "REGULATED MEDICAL WASTE, N.O.S."
 msgstr ""
+"RIFIUTI CLINICI, NON SPECIFICATI, N.A.S. o RIFIUTI (BIO) MEDICI, N.A.S. o "
+"RIFIUTI MEDICI REGOLAMENTATI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3291_I3_6dot2/2dot2_565_P621/IBC620/LP621_2
@@ -3596,17 +3600,19 @@ msgid ""
 "CLINICAL WASTE, UNSPECIFIED, N.O.S. or (BIO) MEDICAL WASTE, N.O.S. or "
 "REGULATED MEDICAL WASTE, N.O.S., in refrigerated liquid nitrogen"
 msgstr ""
+"RIFIUTI CLINICI, NON SPECIFICATI, N.A.S. o RIFIUTI (BIO) MEDICI, N.A.S. o "
+"RIFIUTI MEDICI REGOLAMENTATI, N.A.S., in azoto liquido refrigerato"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1023
 msgid "COAL GAS, COMPRESSED"
-msgstr ""
+msgstr "GAS DI CARBONE, COMPRESSO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1136_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1136_5L
 msgid "COAL TAR DISTILLATES, FLAMMABLE"
-msgstr ""
+msgstr "DISTILLATI DI CATRAME DI CARBONE, INFIAMMABILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1139_F1_3_500ml_P001_1
@@ -3616,6 +3622,9 @@ msgid ""
 "industrial or other purposes such as vehicle under coating, drum or barrel "
 "lining)"
 msgstr ""
+"SOLUZIONE DI RIVESTIMENTO (comprende trattamenti superficiali o rivestimenti "
+"utilizzati per scopi industriali o di altro tipo, come sottorivestimenti di "
+"veicoli, rivestimenti di fusti o barili)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1139_F1_3_5L_P001/R001_3
@@ -3625,6 +3634,11 @@ msgid ""
 "lining) (having a flash-point below 23 °C and viscous according to "
 "2.2.3.1.4) (vapour pressure at 50 °C more than 110 kPa)"
 msgstr ""
+"SOLUZIONE DI RIVESTIMENTO (compresi i trattamenti superficiali o i "
+"rivestimenti utilizzati per scopi industriali o altri, come il rivestimento "
+"inferiore dei veicoli, il rivestimento di fusti o barili) (con un punto di "
+"infiammabilità inferiore a 23 °C e viscoso secondo 2.2.3.1.4) (pressione di "
+"vapore a 50 °C superiore a 110 kPa)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1139_F1_3_5L_P001/IBC02/R001_3
@@ -3634,6 +3648,11 @@ msgid ""
 "lining) (having a flash-point below 23 °C and viscous according to "
 "2.2.3.1.4) (vapour pressure at 50 °C not more than 110 kPa)"
 msgstr ""
+"SOLUZIONE DI RIVESTIMENTO (compresi i trattamenti superficiali o i "
+"rivestimenti utilizzati per scopi industriali o di altro tipo, come "
+"sottorivestimenti di veicoli, rivestimenti di fusti o barili) (con un punto "
+"di infiammabilità inferiore a 23 °C e viscoso secondo 2.2.3.1.4) (pressione "
+"di vapore a 50 °C non superiore a 110 kPa)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1139_F1_3_640C_5L_P001_2
@@ -3642,6 +3661,10 @@ msgid ""
 "industrial or other purposes such as vehicle under coating, drum or barrel "
 "lining) (vapour pressure at 50 °C more than 110 kPa)"
 msgstr ""
+"SOLUZIONE DI RIVESTIMENTO (compresi i trattamenti superficiali o i "
+"rivestimenti utilizzati per scopi industriali o di altro tipo, come il "
+"rivestimento inferiore dei veicoli, il rivestimento di fusti o barili) ("
+"pressione di vapore a 50 °C superiore a 110 kPa)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1139_F1_3_640D_5L_P001/IBC02/R001_2
@@ -3650,16 +3673,20 @@ msgid ""
 "industrial or other purposes such as vehicle under coating, drum or barrel "
 "lining) (vapour pressure at 50 °C not more than 110 kPa)"
 msgstr ""
+"SOLUZIONE DI RIVESTIMENTO (compresi i trattamenti superficiali o i "
+"rivestimenti utilizzati per scopi industriali o di altro tipo, come il "
+"rivestimento inferiore dei veicoli, il rivestimento di fusti o barili) ("
+"pressione di vapore a 50 °C non superiore a 110 kPa)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2001
 msgid "COBALT NAPHTHENATES, POWDER"
-msgstr ""
+msgstr "NAFTENATI DI COBALTO, POLVERE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1318
 msgid "COBALT RESINATE, PRECIPITATED"
-msgstr ""
+msgstr "RESINATO DI COBALTO, PRECIPITATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0382
@@ -3667,52 +3694,52 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0384
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0461
 msgid "COMPONENTS, EXPLOSIVE TRAIN, N.O.S."
-msgstr ""
+msgstr "COMPONENTI, TRENO ESPLOSIVO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1954
 msgid "COMPRESSED GAS, FLAMMABLE, N.O.S."
-msgstr ""
+msgstr "GAS COMPRESSO, INFIAMMABILE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1956
 msgid "COMPRESSED GAS, N.O.S."
-msgstr ""
+msgstr "GAS COMPRESSO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3156
 msgid "COMPRESSED GAS, OXIDIZING, N.O.S."
-msgstr ""
+msgstr "GAS COMPRESSO, COMBURENTE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3304
 msgid "COMPRESSED GAS, TOXIC, CORROSIVE, N.O.S."
-msgstr ""
+msgstr "GAS COMPRESSO, TOSSICO, CORROSIVO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3305
 msgid "COMPRESSED GAS, TOXIC, FLAMMABLE, CORROSIVE, N.O.S."
-msgstr ""
+msgstr "GAS COMPRESSO, TOSSICO, INFIAMMABILE, CORROSIVO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1953
 msgid "COMPRESSED GAS, TOXIC, FLAMMABLE, N.O.S."
-msgstr ""
+msgstr "GAS COMPRESSO, TOSSICO, INFIAMMABILE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1955
 msgid "COMPRESSED GAS, TOXIC, N.O.S."
-msgstr ""
+msgstr "GAS COMPRESSO, TOSSICO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3306
 msgid "COMPRESSED GAS, TOXIC, OXIDIZING, CORROSIVE, N.O.S."
-msgstr ""
+msgstr "GAS COMPRESSO, TOSSICO, COMBURENTE, CORROSIVO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3303
 msgid "COMPRESSED GAS, TOXIC, OXIDIZING, N.O.S."
-msgstr ""
+msgstr "GAS COMPRESSO, TOSSICO, COMBURENTE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0248
@@ -3721,16 +3748,18 @@ msgid ""
 "CONTRIVANCES, WATER-ACTIVATED with burster, expelling charge or propelling "
 "charge"
 msgstr ""
+"DISPOSITIVI ATTIVATI DALL'ACQUA con carica di scoppio, di espulsione o di "
+"propulsione"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1585
 msgid "COPPER ACETOARSENITE"
-msgstr ""
+msgstr "ACETOARSENITO DI RAME"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1586
 msgid "COPPER ARSENITE"
-msgstr ""
+msgstr "ARSENITO DI RAME"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2776
@@ -3739,6 +3768,8 @@ msgid ""
 "COPPER BASED PESTICIDE, LIQUID, FLAMMABLE, TOXIC, flash-point less than 23 "
 "°C"
 msgstr ""
+"PESTICIDA A BASE DI RAME, LIQUIDO, INFIAMMABILE, TOSSICO, punto di "
+"infiammabilità inferiore a 23 °C"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3010
